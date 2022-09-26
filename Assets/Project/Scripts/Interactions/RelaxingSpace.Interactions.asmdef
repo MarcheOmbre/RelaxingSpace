@@ -1,0 +1,16 @@
+{
+    "name": "RelaxingSpace.Interactions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e9c0438c1474d7142aa346e3d8cca131"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

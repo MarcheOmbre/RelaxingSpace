@@ -1,0 +1,19 @@
+{
+    "name": "RelaxingSpace.Ship",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e9c0438c1474d7142aa346e3d8cca131",
+        "GUID:760f2321250e3b74d855c5308d12aaf9",
+        "GUID:faa944a9dc2a0414280c21caf58353b6",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "RelaxingSpace.Interhaptics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d41d838dfd2aad74f8ceaa0ad67b624f",
+        "GUID:b58f5c67c68f60f41b44a30d2264a67c",
+        "GUID:760f2321250e3b74d855c5308d12aaf9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

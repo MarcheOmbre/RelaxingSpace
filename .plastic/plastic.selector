@@ -1,0 +1,4 @@
+repository "RelaxingSpace@TravelMind@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ship1_VirtualButton
+  m_Controller: {fileID: 9100000, guid: 1cb03a9797c935442b1f821ec1db3a01, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3db311cfdfa099247bfdab58ed379276, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd3a5fc59f39ac5438aa30b7e0bc3734, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1adfc96df9d3b1c46aaa5c793ec6ceaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2452f6d0b8e5e684a855cc11403c3be0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0aa8b997c870db348bee529b83012871, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9028eea5c0970464fb8194c2567307f4, type: 2}

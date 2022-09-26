@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ship1_TorqueThruster
+  m_Controller: {fileID: 9100000, guid: 7a9380fd95bc2914e9383611355f536d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ef03e68646fca434cb08c87f788f2cb5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64f8042ad59b03149981adc4c8d00abf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d127b901a81f9914f86587e7a97955a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c24d52767c9cbd849b325730920412ea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5639a1f3729a7c45a58753bd194fa79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8897a89588462684a8a13e86fe3c7994, type: 2}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ship1_LandingGear
+  m_Controller: {fileID: 9100000, guid: bdd2fe091b4c06447bf9ecd85450ff43, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 42a7a1b96a7b735498e36d50d56361b6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc3be6033bc63d340b64f9162a012a63, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 996927d3e374d65499ecb133245fee5f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2506ebc808acef4cbda8f550739ff11, type: 2}
